@@ -1,0 +1,9 @@
+*.sqlite3
+*.sqlite3-*
+__pycache__/
+*.py[cod]
+*.csv
+*.zip
+.env
+credentials*.json
+token*.json
